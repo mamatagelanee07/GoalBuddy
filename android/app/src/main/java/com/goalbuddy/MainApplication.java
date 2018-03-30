@@ -1,4 +1,4 @@
-package com.app;
+package com.goalbuddy;
 
 import android.app.Application;
 
