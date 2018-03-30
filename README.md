@@ -1,0 +1,2 @@
+# GoalBuddy
+Sample React application
