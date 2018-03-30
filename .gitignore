@@ -41,6 +41,15 @@ buck-out/
 \.buckd/
 *.keystore
 
+
+Package-lock.json
+.watchmanconfig
+.gitattributes
+.babelrc
+.buckconfig
+.flowconfig
+
+
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
